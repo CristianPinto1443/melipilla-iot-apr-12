@@ -29,19 +29,11 @@ Diseñar y prototipar un sistema de riego inteligente de bajo costo que registre
 - Fuente de poder y memoria microSD.  
 
 ### Sensores  
-- Sensor de flujo de agua (para medir cuántos litros pasan por la manguera).  
+- Sensor de flujo de agua YF-S201.
 
-### Actuadores  
-- Módulo de relé (para controlar una bomba o válvula de agua).  
-- Bomba de agua pequeña o válvula eléctrica (para simular el riego).  
-
-### Estructura  
-- Maqueta de invernadero o sistema de riego con mangueras.  
-- Protoboard y cables de conexión.  
 
 ### Visualización y control  
-- Software en Raspberry Pi (ejemplo: Node-RED o Python).  
-- Dashboard web sencillo para ver el consumo de agua y programar riego.  
+- Software en Raspberry Pi (ejemplo: Node-RED o Python).
 
 ---
 
