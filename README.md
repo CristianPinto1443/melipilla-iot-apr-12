@@ -14,7 +14,9 @@ Diseñar y prototipar un sistema de riego inteligente de bajo costo que registre
 👨‍💻 Integrantes
 
 Cristian Pinto 
+
 Claudia Campos
+
 Dixie Marín
 
 🔧 Dispositivos y materiales
@@ -38,9 +40,13 @@ Bomba de agua pequeña o válvula eléctrica (para simular el riego).
 Estructura
 
 Maqueta de invernadero o sistema de riego con mangueras.
+
 Protoboard y cables de conexión.
+
 Visualización y control
+
 Software en Raspberry Pi (ejemplo: Node-RED o Python).
+
 Dashboard web sencillo para ver el consumo de agua y programar riego.
 
 ⚡ Diagrama funcional básico
